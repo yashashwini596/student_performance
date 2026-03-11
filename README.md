@@ -40,7 +40,7 @@ The dataset contains the following features:
 
  Technologies Used
 
-- Python 3.x
+- Python 
 - Pandas
 - Scikit-learn
 - Matplotlib
